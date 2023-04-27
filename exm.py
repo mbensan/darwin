@@ -1,0 +1,2 @@
+class Usee:
+    pass
